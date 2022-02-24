@@ -1,0 +1,13 @@
+{
+  "name": "to-do-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TochiAbara/to-do-app.git",
+  "author": "Tochi_Abara <tochiabara@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3"
+  }
+}
